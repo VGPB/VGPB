@@ -1,5 +1,5 @@
 ## In submission
-## Code is organizing and coming soon...
+## Code is organized and will be released after acceptance
 <!--
 **VGPB/VGPB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
